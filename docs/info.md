@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+El proyecto almacena bits en una memoria de 8bits con flip-flops tipo D con un reloj. Con una determinada contraseña (numero 69) se logra mandar la señal por el output. Se muestra el encendido de un Led cuando se almacena el numero correcto
 
 ## How to test
 
-Explain how to use your project
+En la simulación del proyecto se puede ingresar bits (0 o 1 con un switch conectado a vcc o al Gnd), apretando el botón de Step se puede avanzar el reloj y guardar ese bit en el primer FF y mover la cadena de bits a lo largo de los otros FF encadenados.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Un led que se prende cuando se guarda el numero 69
