@@ -4,7 +4,7 @@ project:
   title:        "Proyecto Circuito Integrado"      # Project title
   author:       "Nicolas Bascou y Pia Kaitazoff"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "Proyecto de simulacion de guardado de 8bits en FF tipo D, habilita la emicion de una señal cuando el byte guarda el numero 69"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
